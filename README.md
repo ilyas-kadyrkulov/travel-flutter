@@ -4,16 +4,16 @@
 
 ##  The app is called *Travel&Dwell*. It is used for a user to choose a country to trip to, select a hotel, and explore the activities.
 
-![alt text](https://imgur.com/uGXE54A)
+![alt text](https://i.imgur.com/uGXE54A.png)
 
-![alt text](https://imgur.com/qqmPoIM)
+![alt text](https://i.imgur.com/qqmPoIM.png)
 
 # It is mainly done using Card class:
-[Card class link](https://api.flutter.dev/flutter/material/Card-class.html)
+[Link to the Card class](https://api.flutter.dev/flutter/material/Card-class.html)
 
 This is the one used in the project:
 __Initialization__:
-![Initialization of the Card](https://imgur.com/nkYYgAp)
+![Initialization of the Card](https://i.imgur.com/nkYYgAp.png)
 
 __Instance__:
-![Instance of the Card](https://imgur.com/M9DWOv5)
+![Instance of the Card](https://i.imgur.com/M9DWOv5.png)
