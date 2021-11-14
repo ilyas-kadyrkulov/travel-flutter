@@ -13,7 +13,9 @@
 
 This is the one used in the project:
 __Initialization__:
-![Initialization of the Card](https://i.imgur.com/nkYYgAp.png)
+![Initialization of the Card]
+(https://i.imgur.com/nkYYgAp.png)
 
 __Instance__:
-![Instance of the Card](https://i.imgur.com/M9DWOv5.png)
+![Instance of the Card]
+(https://i.imgur.com/M9DWOv5.png)
