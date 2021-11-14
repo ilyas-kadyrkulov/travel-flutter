@@ -19,3 +19,7 @@ __Initialization__:
 __Instance__:
 
 ![Instance of the Card](https://i.imgur.com/M9DWOv5.png)
+
+## The last part is the Profile Screen.
+
+![Profile Screen](https://i.imgur.com/T0if5NR.png)
